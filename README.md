@@ -66,7 +66,7 @@ p3{
 	width: 100%;
 }
 /************************ LARGE DEVICES ONLY *******************************/
-@media (min-width: 992px) and (max-width:1200px){
+@media (min-width: 992px){
 .col-lg-1,.col-lg-2,.col-lg-3,.col-lg-4,.col-lg-5,.col-lg-6,.col-lg-7,.col-lg-8,.col-lg-9,.col-lg-10,.col-lg-11,.col-lg-12{
 		float: left;
 	}
@@ -163,3 +163,6 @@ p3{
 
 	<div class="col-lg-4 col-md-12"><p class="sushi"><p3> Sushi </p3>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos ducimus rerum autem cum error earum deserunt debitis laudantium consectetur, aut temporibus. Totam, ratione odio ullam doloribus quis laudantium a rem nesciunt dolore sequi numquam eveniet, voluptas vitae enim recusandae. Pariatur.</p></div>
 
+</body>
+</html>
+	
