@@ -163,6 +163,4 @@ p3{
 
 	<div class="col-lg-4 col-md-12"><p class="sushi"><p3> Sushi </p3>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos ducimus rerum autem cum error earum deserunt debitis laudantium consectetur, aut temporibus. Totam, ratione odio ullam doloribus quis laudantium a rem nesciunt dolore sequi numquam eveniet, voluptas vitae enim recusandae. Pariatur.</p></div>
 
-</body>
-</html>
 	
